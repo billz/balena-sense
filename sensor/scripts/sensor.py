@@ -10,6 +10,7 @@ import json
 
 from hts221 import HTS221
 from bme680 import BME680
+from sds011 import SDS011
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
 class balenaSense():
